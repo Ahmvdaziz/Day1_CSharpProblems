@@ -46,7 +46,6 @@ Upon running the application, you will see a menu with the following options:
 2. **Perform Fraction Addition**: 
    - Enter numerators and denominators for two fractions.
    - The application will display the fractions and compute their sum.
-
 3. **Exit**: 
    - Choose this option to exit the application.
 
